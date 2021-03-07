@@ -29,4 +29,4 @@ Un jeu connu de tous qui me permet d'apprendre des nouveaux modules et librairie
 
 ## Templete
 
-![Alt text](img/terminale.png "Teminale demo")
+![Alt text](terminale.png "Teminale demo")
